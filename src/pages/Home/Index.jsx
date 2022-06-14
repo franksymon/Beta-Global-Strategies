@@ -59,13 +59,13 @@ const PorfolioShape = styled.div`
   background-color: #dc1414;
 `;
 
-const FooterShape = styled.div`
-  background-color: #111;
-  width: 100%;
-  height: 100px;
-  z-index: -1;
-  position: absolute;
-`;
+// const FooterShape = styled.div`
+//   background-color: #111;
+//   width: 100%;
+//   height: 100px;
+//   z-index: -1;
+//   position: absolute;
+// `;
 
 const Home = () => {
   return (
